@@ -1,0 +1,12 @@
+body { background:#0b1220; color:#e5e7eb; font-family:Arial; padding:20px }
+a { color:#38bdf8; text-decoration:none }
+table { width:100%; border-collapse:collapse }
+th,td { padding:8px; border-bottom:1px solid #1f2937 }
+.nav a { margin-right:15px }
+.card { background:#111827; padding:20px; border-radius:10px }
+.center { display:flex; align-items:center; justify-content:center; height:100vh }
+input,button { width:100%; padding:10px; margin:5px 0 }
+button { background:#2563eb; color:white; border:none }
+.error { color:#f87171 }
+.grid { display:flex; gap:20px }
+.box { background:#111827; padding:20px; border-radius:10px; flex:1; text-align:center }
